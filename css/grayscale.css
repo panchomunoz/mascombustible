@@ -151,7 +151,12 @@ a:focus {
   color: black;
 }
 .intro2 {
+ display: table;
   width: 100%;
+  height: auto;
+  padding: 100px 0;
+  text-align: center;
+  color: white;
   height: 660px;
   background: url(../img/blackbg.jpg) no-repeat bottom center scroll;
   background-size: 100%;
