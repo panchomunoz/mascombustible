@@ -215,10 +215,11 @@ a:focus {
   transition: background 0.3s ease-in-out;
 }
 
-.btn i {
+.upp {
   margin-top: -20px;
   font-size: 50px;
 }
+
 .btn a {
   margin-top: 15px;
 }
