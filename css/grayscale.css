@@ -178,6 +178,12 @@ a:focus {
   font-size: 40px;
   color: black;
 }
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+
 .intro .intro-body .intro-text {
   font-size: 18px;
 }
@@ -211,6 +217,11 @@ a:focus {
 
 
 
+.container {
+    width: 100%;
+    padding-right: 0px; 
+    padding-left: 0px; 
+}
 
 .btn-circle:hover,
 .btn-circle:focus {
